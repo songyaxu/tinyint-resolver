@@ -6,8 +6,6 @@ import org.mybatis.generator.internal.types.JavaTypeResolverDefaultImpl;
 /**
  * @author us-forever
  * @version 1.0
- * @description
- * @date 2023/4/4 18:14
  */
 public class TinyIntResolver extends JavaTypeResolverDefaultImpl {
 
