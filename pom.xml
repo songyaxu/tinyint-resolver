@@ -7,6 +7,7 @@
     <groupId>com.us-forever</groupId>
     <artifactId>tinyint-resolver</artifactId>
     <version>1.0</version>
+    <name>tinyint-resolver</name>
 
     <description>The type converter from byte to int in Mybatis-Generator</description>
     <url>https://github.com/songyaxu/tinyint-resolver</url>
