@@ -31,7 +31,7 @@
         <connection>scm:https://github.com/songyaxu/tinyint-resolver.git</connection>
         <developerConnection>scm:git:https://github.com/songyaxu/tinyint-resolver.git</developerConnection>
         <url>https://github.com/songyaxu/tinyint-resolver</url>
-        <tag>v${project.version}</tag>
+        <tag>${project.version}</tag>
     </scm>
     <distributionManagement>
         <snapshotRepository>
