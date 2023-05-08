@@ -19,7 +19,7 @@ Mybatis-Generator 中 byte转int的类型转换器
 
 
 ``` xml
-<javaTypeResolver type="org.songyaxu.util.TinyIntResolver">
+<javaTypeResolver type="com.usforever.util.TinyIntResolver">
     <property name="forceBigDecimals" value="false"/>
 </javaTypeResolver>
 ```
